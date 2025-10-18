@@ -3,7 +3,7 @@
 
 [templates.hyprland]
 input_path = '~/.config/matugen/templates/hyprlandcolors.conf'
-output_path = '~/.config/hypr/colors.conf'
+output_path = '~/.config/hypr/modules/colors.conf'
 post_hook = 'hyprctl reload'
 
 [templates.kitty]
