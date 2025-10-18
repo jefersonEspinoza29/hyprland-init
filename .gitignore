@@ -1,0 +1,13 @@
+# Ignorar todo
+*
+
+# Permitir este archivo
+!.gitignore
+
+# Permitir carpetas y todo su contenido
+!hypr/
+!hypr/**
+!matugen/
+!matugen/**
+!kitty/
+!kitty/**
